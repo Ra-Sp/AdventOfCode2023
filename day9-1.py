@@ -1,3 +1,5 @@
+# Day 9 - Problem 1
+
 data = list(open('day9-input.txt'))
 next_val_sum = 0
 
