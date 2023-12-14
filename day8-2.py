@@ -1,3 +1,5 @@
+# Day 8 - Problem 2
+
 from itertools import cycle
 from math import lcm
 
