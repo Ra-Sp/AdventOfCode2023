@@ -1,3 +1,5 @@
+# Day 7 - Problem 1
+
 data = list(open('day7-input.txt'))
 
 order = ["A", "K", "Q", "J", "T", "9", "8", "7", "6", "5", "4", "3", "2"]
