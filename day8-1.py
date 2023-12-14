@@ -1,3 +1,5 @@
+# Day 8 - Problem 1
+
 from itertools import cycle
 
 data = list(open('day8-input.txt'))
