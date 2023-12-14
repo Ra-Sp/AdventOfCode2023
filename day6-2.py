@@ -1,3 +1,5 @@
+# Day 6 - Problem 2
+
 data = list(open('day6-input.txt'))
 time = list(data[0][5:].lstrip().rstrip().split())
 dist = list(data[1][9:].lstrip().rstrip().split())
